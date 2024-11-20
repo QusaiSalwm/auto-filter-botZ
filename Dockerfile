@@ -1,6 +1,6 @@
 FROM python:3.10
 
-WORKDIR /auto-filter-botZ
+WORKDIR /TamilanBotsZ
 
 COPY requirements.txt ./
 
